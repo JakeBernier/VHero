@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /auth/profile.php
+Disallow: /
+Disallow: /joker.php
+Disallow: /robots.txt
+Disallow: /info.php
